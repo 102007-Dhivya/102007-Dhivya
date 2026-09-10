@@ -138,7 +138,7 @@ A hybrid fraud detection framework combining transaction analysis, behavioral pa
 
 The contribution snake is generated automatically by the GitHub Actions workflow in `.github/workflows/snake.yml`.
 
-![Contribution Snake](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/102007-Dhivya/102007-Dhivya/output/github-contribution-grid-snake.svg)
 
 ---
 
