@@ -29,3 +29,28 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
+
+## 🚀 Featured Projects
+
+### 🏥 Hospital Management System
+
+Full-stack hospital management system for managing patients, doctors and appointments.
+
+**Tech:** React.js • Node.js • Express.js • MongoDB
+
+---
+
+### 🌸 AI-Based Perfume Recommendation System
+
+AI-powered perfume recommendation system that recommends perfumes based on user preferences.
+
+**Tech:** React.js • Node.js • Python • Scikit-Learn • MongoDB
+
+---
+
+### 🚗 Road Accident Prediction System
+
+Machine learning project for analyzing and predicting road accident patterns.
+
+**Tech:** Python • Machine Learning
