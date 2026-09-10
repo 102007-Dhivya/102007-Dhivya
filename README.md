@@ -1,6 +1,4 @@
-
-
-**GitHub:** # 👋 Hi, I'm Dhivya S
+# 👋 Hi, I'm Dhivya S
 
 ### 🎓 3rd-Year B.E. CSE (AI & ML) Student | Software Developer | AI/ML Enthusiast 🚀
 
@@ -128,7 +126,7 @@ A hybrid fraud detection framework combining transaction analysis, behavioral pa
 
 ## 📊 GitHub Statistics
 
-> Replace `102007-Dhivya` below with your exact GitHub username.
+> Replace `YOUR_GITHUB_USERNAME` below with your exact GitHub username.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true)
 
@@ -158,14 +156,7 @@ The contribution snake is generated automatically by the GitHub Actions workflow
 
 ## 📫 Connect With Me
 
-**GitHub:** https://github.com/102007-Dhivya
-
-**LinkedIn:** https://www.linkedin.com/in/dhivya-s-463bb8346
-
----
-
-### ✨ Keep learning. Keep building. Keep growing.
-
+**GitHub:** https://github.com/YOUR_GITHUB_USERNAME
 
 **LinkedIn:** YOUR_LINKEDIN_URL
 
