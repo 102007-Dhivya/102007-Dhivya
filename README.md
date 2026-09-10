@@ -126,11 +126,9 @@ A hybrid fraud detection framework combining transaction analysis, behavioral pa
 
 ## 📊 GitHub Statistics
 
-> Replace `YOUR_GITHUB_USERNAME` below with your exact GitHub username.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=102007-Dhivya&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=102007*Dhivya&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
