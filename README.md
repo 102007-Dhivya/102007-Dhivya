@@ -154,9 +154,9 @@ The contribution snake is generated automatically by the GitHub Actions workflow
 
 ## 📫 Connect With Me
 
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME
+**GitHub:** https://github.com/102007-Dhivya
 
-**LinkedIn:** YOUR_LINKEDIN_URL
+**LinkedIn:** https://www.linkedin.com/in/dhivya-s-463bb8346
 
 ---
 
