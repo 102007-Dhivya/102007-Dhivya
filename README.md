@@ -5,6 +5,11 @@
 I enjoy building practical software and AI-powered applications, solving problems with Data Structures & Algorithms, and exploring modern Generative AI systems.
 
 ---
+## 🌐 Portfolio
+
+🚀 **[View My Portfolio](npx plugins add vercel/vercel-plugin)**
+
+---
 
 ## 👩‍💻 About Me
 
