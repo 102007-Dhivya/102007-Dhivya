@@ -7,7 +7,7 @@ I enjoy building practical software and AI-powered applications, solving problem
 ---
 ## 🌐 Portfolio
 
-🚀 **[View My Portfolio](npx plugins add vercel/vercel-plugin)**
+🚀 **[View My Portfolio](https://abstract-portfolio-art.vercel.app/)**
 
 ---
 
